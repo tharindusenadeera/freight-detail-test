@@ -1,0 +1,1 @@
+export const GET_SHIPMENTS = "GET_SHIPMENTS";
